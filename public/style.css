@@ -1,0 +1,38 @@
+body{
+    font-family:Arial;
+    background:#0F1115;
+    color:white;
+    margin:0;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+.container{
+    max-width:700px;
+    margin:auto;
+}
+
+.card{
+    background:#1E232B;
+    padding:20px;
+    margin-top:20px;
+    border-radius:10px;
+}
+
+textarea,input{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+}
+
+button{
+    padding:10px;
+    background:#4CAF50;
+    color:white;
+    border:none;
+    margin-top:10px;
+    cursor:pointer;
+}
